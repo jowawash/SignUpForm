@@ -56,7 +56,7 @@
     border: 2px solid;
     outline: none;
     cursor: pointer;
-    transition: .3s;
+    transition: transform .3s;
 }
 
 .banner-btn:hover{
@@ -111,7 +111,7 @@
     border-bottom-color: #cc683c;
 }
 
-.sign-up-form{
+.sign-up-form p{
     color: #fff;
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
